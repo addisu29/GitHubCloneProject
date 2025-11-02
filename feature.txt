@@ -1,1 +1,2 @@
 this a new feature created in the feature-greating branch.
+This is a new feature.
